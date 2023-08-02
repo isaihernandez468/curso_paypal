@@ -1,0 +1,10 @@
+http://localhost/curso_paypal/captura.php?collection_id=1316956961&collection_status=approved&
+payment_id=1316956961&
+status=approved&
+external_reference=null&
+payment_type=credit_card&
+merchant_order_id=10810664077&
+preference_id=604804602-107b070b-2d26-4f39-80e8-23c28c3160f5&
+site_id=MLM&
+processing_mode=aggregator&
+merchant_account_id=null

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^10.19",
+        "mercadopago/dx-php": "2.5.5"
+    }
+}
